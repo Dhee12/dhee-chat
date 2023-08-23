@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dhee-chat/static/js/main.6119aa4a.js",
+    "index.html": "/dhee-chat/index.html",
+    "main.6119aa4a.js.map": "/dhee-chat/static/js/main.6119aa4a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6119aa4a.js"
+  ]
+}
